@@ -1,4 +1,4 @@
-#google-gemini-ai-demo
+# google-gemini-ai-demo
 
 ### env 설정
 
